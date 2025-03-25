@@ -1,0 +1,11 @@
+# Instalación Individual
+pip install pandas
+pip install selenium
+pip install plotly
+
+# Instalación Grupal
+pip install pandas selenium plotly
+
+# Instalación de WebDriver
+# Link Chrome Driver: https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419
+# Link Chome Driver > a versión 115: https://googlechromelabs.github.io/chrome-for-testing/#stable (Utilicé esta)
