@@ -1,3 +1,1 @@
-"""
-CARPETA A REEMPLAZAR POR TU ARCHIVO DE CHROMEDRIVER DESCOMPRIMIDO
-"""
+{"metadata":{"kernelspec":{"language":"python","display_name":"Python 3","name":"python3"},"language_info":{"name":"python","version":"3.10.12","mimetype":"text/x-python","codemirror_mode":{"name":"ipython","version":3},"pygments_lexer":"ipython3","nbconvert_exporter":"python","file_extension":".py"},"kaggle":{"accelerator":"none","dataSources":[],"dockerImageVersionId":30918,"isInternetEnabled":false,"language":"python","sourceType":"notebook","isGpuEnabled":false}},"nbformat_minor":4,"nbformat":4,"cells":[{"cell_type":"code","source":"\"\"\"\nCARPETA A REEMPLAZAR POR TU ARCHIVO DE CHROMEDRIVER DESCOMPRIMIDO\n\"\"\"","metadata":{"_uuid":"9e3dd175-2f27-4763-819a-308a3d2d1cef","_cell_guid":"4e6daaf1-5fc1-4c82-8265-aeea0532b75d","trusted":true,"collapsed":false,"jupyter":{"outputs_hidden":false}},"outputs":[],"execution_count":null}]}
